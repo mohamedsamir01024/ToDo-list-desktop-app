@@ -57,10 +57,7 @@ SQLite / JSON (for storing tasks – optional)
 
 🚀 How to Run
 
-Clone the repository:
 
-git clone https://github.com/your-username/ToDo-App.git
-cd ToDo-App
 
 
 Install dependencies (if using Tkinter, no extra install needed; for PyQt, install via pip):
